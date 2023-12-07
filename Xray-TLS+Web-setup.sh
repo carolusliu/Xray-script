@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #系统信息
 # 指令集
 unset machine
